@@ -690,6 +690,7 @@ def play():
                 player.pesticides -=1
                 pesticide_thrown = True
                 pesticide_group.add(pesticide)
+            #woooo
             #make jumping animation
             #if player.in_air:
               #  player.update_action(2)
